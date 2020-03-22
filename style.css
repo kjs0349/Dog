@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+}
+
+#list {
+    text-align: center;
+}
+
+#list li{
+  display: inline;
+  margin: 20px;
+  margin-bottom: 10px;
+  list-style: none;
+}
+
+#list a {
+  text-align: center;
+}
