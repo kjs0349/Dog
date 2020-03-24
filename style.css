@@ -25,3 +25,7 @@ h1 {
   color: black;
   text-decoration: none;
 }
+
+#change img {
+  margin-top: 20px;
+}
